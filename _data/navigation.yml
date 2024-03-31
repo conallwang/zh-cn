@@ -3,17 +3,20 @@ main:
   - title: "简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
-    url: "/zh-cn/#-xl"
+  - title: "新闻"
+    url: "/zh-cn/#news"
 
-  - title: "论文专利"
-    url: "/zh-cn/#-lwzl"
+  - title: "发表论文"
+    url: "/zh-cn/#publications"
 
   - title: "荣誉奖项"
-    url: "/zh-cn/#-ryjx"
+    url: "/zh-cn/#honors-and-awards"
 
-  - title: "学术会议"
-    url: "/zh-cn/#-xshy"
+  - title: "教育背景"
+    url: "/zh-cn/#educations"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
+  - title: "邀请报告"
+    url: "/zh-cn/#talks"
+
+  - title: "实习经历"
+    url: "/zh-cn/#internships"
