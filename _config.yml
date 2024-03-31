@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王聪的主页"
+title                    : "王聪"
 description              : "目前在腾讯AI Lab实习，主要从事数字人相关的研究"
 repository               : "conallwang/conallwang.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王聪"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/live-photo.png"
   bio              : "清华大学"
   location         : "北京"
   employer         : #"Hefei General Machinery Research Institute"

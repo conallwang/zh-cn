@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[清华大学计算机系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
+我目前是[清华大学计算机系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。</br>
 
-我的研究兴趣主要聚焦在<span style="color:red">数字人</span> and <span style="color:red">计算机视觉</span>领域，包括数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
+我的研究兴趣主要聚焦在<span style="color:red">数字人</span> 和 <span style="color:red">计算机视觉</span>领域，包括数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。</br>
 
-现在，我正在攻读博士学位的第四年（总共五年），<span style="color:red">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn），工作地点最好在北京或者周边。
+现在，我正在攻读博士学位的第四年（总共五年），<span style="color:red">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn），工作地点最好在北京或者周边。</br>
 
 <span class='anchor' id='news'></span>
 
