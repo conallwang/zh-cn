@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[清华大学计算机系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
+我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
 
 <br>
 
-我的研究兴趣主要聚焦在<span style="color:red">数字人</span> 和 <span style="color:red">计算机视觉</span>领域，包括数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
+我的研究兴趣主要聚焦在<span style="color:red">数字人</span>和<span style="color:red">计算机视觉</span>领域，包括数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
 
 <br>
 
@@ -60,7 +60,7 @@ redirect_from:
 **Cong Wang**, Yu-Ping Wang, Dinesh Manocha
 
 [**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:2osOgNQ5qMEC'></span></strong>
-- By regressing Locally-Learned Planes, LoLep is able to generate better novel views from one single RGB image. 
+- 通过回归局部学习平面（Locally-Learned Planes）, LoLep 可以生成更好的从单张RGB图像生成新视角图像。
 </div>
 </div>
 
@@ -72,7 +72,7 @@ redirect_from:
 **Cong Wang**, Yu-Ping Wang, Dinesh Manocha
 
 [**Project**](https://github.com/conallwang/MotionHint) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:u5HHmVD_uO8C'></span></strong>
-- MotionHint is able to be easily applied to existing open-sourced state-of-the-art SSM-VO systems to greatly improve the performance (reducing ATE by up to 28.73%).
+- MotionHint 可以很容易的被应用到现有的开源SOTA自监督单目视觉里程计中来极大的提升tracking性能（减少ATE至多28.73%）。
 </div>
 </div>
 
@@ -82,30 +82,31 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉奖励
-- *2023.10* Hefei Excellence Scholarship
-- *2023.09* Longhu Scholarship
-- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent
-- *2022.09* Longhu Scholarship
-- *2019.11* National Scholarship (1/446)
-- *2019.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
-- *2018.11* National Scholarship (1/446)
-- *2018.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
-- *2017.11* People's Special Scholarship (1/145)
-- *2017.11* "Guan Zhi" Scholarship (1/446)
+- *2023.10* 清华之友-合肥英才奖学金 (5,000元)
+- *2023.09* 龙湖奖学金 (5,000元)
+- *2023.05* 2023腾讯犀牛鸟精英人才计划 (5,000元 * 12月)
+- *2022.10* 清华之友-赣州英才奖学金 (5,000元)
+- *2022.09* 龙湖奖学金 (5,000元)
+- *2019.11* 国家奖学金 (8,000元, 1/446)
+- *2019.04* 美国大学生数学建模大赛, Meritorious Winner (前4%)
+- *2018.11* 国家奖学金 (8,000元, 1/446)
+- *2018.04* 美国大学生数学建模大赛, Meritorious Winner (前4%)
+- *2017.11* 人民特等奖学金 (5,000元, 1/145)
+- *2017.11* 冠之奖学金 (10,000元, 1/446)
 
 <span class='anchor' id='educations'></span>
 
 # 📖 教育背景
-- *2020.09 - 2024.04 (now)*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
-- *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
+- *2020.09 - 2024.04 (now)*, 博士生, 清华大学计算机科学与技术系, 北京.
+- *2016.09 - 2020.06*, 本科生, 北京科技大学计算机科学与技术系, 北京.
 
 <span class='anchor' id='talks'></span>
 
 # 💬 邀请汇报
-- *2023.02*, Paper Sharing, Tencent internal talk. 
-- *2022.07*, show my paper, invited by BKUNYUN, [video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2023.02*, 论文分享, 腾讯内部汇报. 
+- *2022.07*, 受北鲲云平台邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 
 <span class='anchor' id='internships'></span>
 
 # 💻 实习经历
-- *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
+- *2022.07 - 2024.04 (now)*, 腾讯 AI Lab, 北京.
