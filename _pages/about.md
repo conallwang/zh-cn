@@ -103,8 +103,9 @@ redirect_from:
 <span class='anchor' id='talks'></span>
 
 # 💬 邀请汇报
+- *2023.11*, 受[中国图像图形学报](http://www.cjig.cn/jig/ch/index.aspx)邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1o64y177Ny/?spm_id_from=333.337.search-card.all.click&vd_source=b4eed9deaadbce01a5a20c7c9374a85e)
 - *2023.02*, 论文分享, 腾讯内部汇报. 
-- *2022.07*, 受北鲲云平台邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2022.07*, 受[北鲲云](https://www.bkunyun.com/)平台邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 
 <span class='anchor' id='internships'></span>
 
