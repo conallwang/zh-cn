@@ -40,6 +40,18 @@ redirect_from:
 
 # 📝 发表论文
 
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](None)
+
+**Cong Wang**, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
+
+[**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- MeGA 采用更加合适的表示来建模不同的人头区域，获得了更高质量的渲染结果，同时天然地支持丰富的下游任务（包括发型替换和面部涂鸦）。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='images/npva_teaser.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,11 +94,12 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉奖励
-- *2023.10* 清华之友-合肥英才奖学金 (5,000元)
+- *2023.10* 清华大学综合奖学金 (5,000元)
 - *2023.09* 龙湖奖学金 (5,000元)
-- *2023.05* 2023腾讯犀牛鸟精英人才计划 (5,000元 * 12月)
-- *2022.10* 清华之友-赣州英才奖学金 (5,000元)
+- *2023.05* 2023腾讯犀牛鸟精英人才计划
+- *2022.10* 清华大学综合奖学金 (5,000元)
 - *2022.09* 龙湖奖学金 (5,000元)
+- *2020.06* 北京市优秀毕业生（前5%）
 - *2019.11* 国家奖学金 (8,000元, 1/446)
 - *2019.04* 美国大学生数学建模大赛, Meritorious Winner (前4%)
 - *2018.11* 国家奖学金 (8,000元, 1/446)
@@ -103,9 +116,10 @@ redirect_from:
 <span class='anchor' id='talks'></span>
 
 # 💬 邀请汇报
+- *2023.12*, 针对论文"Neural Point-based Volumetric Avatar: Surface-guided Neural Points for Efficient and Photorealistic Volumetric Head Avatar"的口头报告, SIGGRAPH Asia 2023, 悉尼，新南威尔士州, 澳大利亚。
 - *2023.11*, 受[中国图像图形学报](http://www.cjig.cn/jig/ch/index.aspx)邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1o64y177Ny/?spm_id_from=333.337.search-card.all.click&vd_source=b4eed9deaadbce01a5a20c7c9374a85e)
-- *2023.02*, 论文分享, 腾讯内部汇报. 
 - *2022.07*, 受[北鲲云](https://www.bkunyun.com/)平台邀请讲解论文, [bilibili视频](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2022.05*, 针对论文"MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints"的口头报告，ICRA 2022, 费城, 宾夕法尼亚州, 美国。
 
 <span class='anchor' id='internships'></span>
 
