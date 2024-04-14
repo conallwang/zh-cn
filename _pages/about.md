@@ -40,7 +40,7 @@ redirect_from:
 
 # 📝 发表论文
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](None)
