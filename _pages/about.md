@@ -30,10 +30,10 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 新闻
-- *2023.08*: &nbsp;🎉 一篇论文被 **SIGRRAPH Asia 2023** 接受!
-- *2023.07*: &nbsp;🎉 一篇论文被 **ICCV 2023** 接受!
+- *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars 被 **SIGRRAPH Asia 2023** 接受!
+- *2023.07*: &nbsp;🎉 LoLep 被 **ICCV 2023** 接受!
 - *2022.07*: &nbsp; 作为日常实习生入职腾讯AI Lab.
-- *2022.02*: &nbsp;🎉 一篇论文被 **ICRA 2022** 接受!
+- *2022.02*: &nbsp;🎉 MotionHint 被 **ICRA 2022** 接受!
 
 
 <span class='anchor' id='publications'></span>
@@ -43,11 +43,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](None)
+[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026)
 
 **Cong Wang**, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
 
-[**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://conallwang.github.io/MeGA_Pages/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - MeGA 采用更加合适的表示来建模不同的人头区域，获得了更高质量的渲染结果，同时天然地支持丰富的下游任务（包括发型替换和面部涂鸦）。
 </div>
 </div>
