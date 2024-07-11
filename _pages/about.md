@@ -110,7 +110,7 @@ redirect_from:
 <span class='anchor' id='educations'></span>
 
 # 📖 教育背景
-- *2020.09 - 2024.04 (now)*, 博士生, 清华大学计算机科学与技术系, 北京.
+- *2020.09 - now*, 博士生, 清华大学计算机科学与技术系, 北京.
 - *2016.09 - 2020.06*, 本科生, 北京科技大学计算机科学与技术系, 北京.
 
 <span class='anchor' id='talks'></span>
@@ -124,4 +124,5 @@ redirect_from:
 <span class='anchor' id='internships'></span>
 
 # 💻 实习经历
-- *2022.07 - 2024.04 (now)*, 腾讯 AI Lab, 北京.
+- *2022.07 - 2024.07*, 腾讯 AI Lab, 北京.
+- *2022.07 - now*, 蚂蚁研究院, 杭州.
