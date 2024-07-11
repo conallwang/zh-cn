@@ -30,6 +30,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 
 # 🔥 新闻
+- *2024.07*: &nbsp; 作为实习生入职蚂蚁研究院.
 - *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars 被 **SIGRRAPH Asia 2023** 接受!
 - *2023.07*: &nbsp;🎉 LoLep 被 **ICCV 2023** 接受!
 - *2022.07*: &nbsp; 作为日常实习生入职腾讯AI Lab.
