@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。博士在读期间，曾在腾讯的AI Lab实习过两年的时间，主要从事3D数字人重建/编辑相关的研究工作，指导老师是康𬱖博士。现在蚂蚁集团的蚂蚁研究院实习，研究工作仍然聚焦于3D数字人重建/编辑/生成，指导导师是王璇博士。
+我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。博士在读期间，曾在腾讯的AI Lab实习过两年的时间，主要从事3D数字人重建/编辑相关的研究工作，指导老师是[康𬱖博士](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)。现在蚂蚁集团的蚂蚁研究院实习，研究工作仍然聚焦于3D数字人重建/编辑/生成，指导导师是[王璇博士](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en&oi=sra)。
 
 <br>
 
