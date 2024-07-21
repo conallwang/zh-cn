@@ -62,7 +62,7 @@ redirect_from:
 **Cong Wang**, Di Kang, Yan-Pei Cao, Linchao Bao, Ying Shan, Song-Hai Zhang
 
 [**Project**](https://conallwang.github.io/npva.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
-- 主要贡献：提出新的**表面引导的神经点表示**和相应的**渲染加速方法**，极大地改善了 3D 数字人建模中**眼睛和口腔内部**的渲染质量。
+- 提出新的**表面引导的神经点表示**和相应的**渲染加速方法**，极大地改善了 3D 数字人建模中**眼睛和口腔内部**的渲染质量。
 
 </div>
 </div>
