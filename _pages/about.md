@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c205e4dd-74e2-465e-9dfb-0aa509038ebc)![image](https://github.com/user-attachments/assets/66105785-c878-4e2b-ae6a-9c86b2c1895a)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
+我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。博士在读期间，曾在腾讯的AI Lab实习过两年的时间，主要从事3D数字人重建/编辑相关的研究工作，指导老师是康𬱖博士。现在蚂蚁集团的蚂蚁研究院实习，研究工作仍然聚焦于3D数字人重建/编辑/生成，指导导师是王璇博士。
 
 <br>
 
-我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">数字人</span>和<span style="color:red; font-weight: bold;">计算机视觉</span>领域，包括数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
+目前我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">3D数字人</span>和<span style="color:red; font-weight: bold;">计算机视觉</span>领域，包括3D数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
 
 <br>
 
-现在，我正在攻读博士学位的第四年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn），工作地点最好在北京或者周边。
+另外，我正在攻读博士学位的第四年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn），工作地点最好在北京或者周边。
 
 <span class='anchor' id='news'></span>
 
@@ -49,7 +49,8 @@ redirect_from:
 **Cong Wang**, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
 
 [**Project**](https://conallwang.github.io/MeGA_Pages/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
-- MeGA 采用更加合适的表示来建模不同的人头区域，获得了更高质量的渲染结果，同时天然地支持丰富的下游任务（包括发型替换和面部涂鸦）。
+- 提出使用**更加合适的表达方式来表达人头的不同部分**和相应的**混合渲染方法**，我们在保证**高质量** 3D 人头重建的基础上，**首次支持人头编辑**（面部涂鸦和发型替换）。
+
 </div>
 </div>
 
@@ -61,7 +62,8 @@ redirect_from:
 **Cong Wang**, Di Kang, Yan-Pei Cao, Linchao Bao, Ying Shan, Song-Hai Zhang
 
 [**Project**](https://conallwang.github.io/npva.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
-- NPVA 使用表面引导的神经点在挑战性区域（例如嘴内部、眼睛和胡子）获得了更高质量的渲染结果。
+- 主要贡献：提出新的**表面引导的神经点表示**和相应的**渲染加速方法**，极大地改善了 3D 数字人建模中**眼睛和口腔内部**的渲染质量。
+
 </div>
 </div>
 
@@ -73,7 +75,8 @@ redirect_from:
 **Cong Wang**, Yu-Ping Wang, Dinesh Manocha
 
 [**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:2osOgNQ5qMEC'></span></strong>
-- 通过回归局部学习平面（Locally-Learned Planes）, LoLep 可以生成更好的从单张RGB图像生成新视角图像。
+- 提出**使用神经网络采样器**，使推理时的 **MPI 平面位置更加确定且合理**，同时**引入重投影损失**来促进采样器的学习；利用 Attention 机制**提升网络对于遮挡部分的推理能力**。
+
 </div>
 </div>
 
@@ -85,7 +88,8 @@ redirect_from:
 **Cong Wang**, Yu-Ping Wang, Dinesh Manocha
 
 [**Project**](https://github.com/conallwang/MotionHint) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:u5HHmVD_uO8C'></span></strong>
-- MotionHint 可以很容易的被应用到现有的开源SOTA自监督单目视觉里程计中来极大的提升tracking性能（减少ATE至多28.73%）。
+- 提出通过预训练的 PPNet **引入相机载具（主要是无人驾驶汽车）的运动先验**，从而可以根据运动先验对网络预测的位姿进行矫正，得到 SOTA 的（理论上总是更好的）结果。
+
 </div>
 </div>
 
@@ -95,6 +99,7 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉奖励
+- *2024.07* **2023腾讯犀牛鸟精英人才计划 "优秀奖"**
 - *2023.10* 清华大学综合奖学金 (5,000元)
 - *2023.09* 龙湖奖学金 (5,000元)
 - *2023.05* **2023腾讯犀牛鸟精英人才计划**
