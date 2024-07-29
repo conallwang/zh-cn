@@ -25,7 +25,7 @@ redirect_from:
 
 <br>
 
-另外，我正在攻读博士学位的第四年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn），工作地点最好在北京或者周边。
+另外，我正在攻读博士学位的第四年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn）。
 
 <span class='anchor' id='news'></span>
 
