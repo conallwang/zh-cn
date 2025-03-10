@@ -19,29 +19,26 @@ redirect_from:
 
 我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。博士在读期间，曾在腾讯的AI Lab实习过两年的时间，主要从事3D数字人重建/编辑相关的研究工作，指导老师是[康𬱖博士](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)。现在蚂蚁集团的蚂蚁研究院实习，研究工作仍然聚焦于3D数字人重建/编辑/生成，指导导师是[王璇博士](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en&oi=sra)。
 
-<br>
-
 目前我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">3D数字人</span>和<span style="color:red; font-weight: bold;">计算机视觉</span>领域，包括3D数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
 
-<br>
-
-另外，我正在攻读博士学位的第四年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn）。
+另外，我正在攻读博士学位第五年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn）。
 
 <span class='anchor' id='news'></span>
 
 # 🔥 新闻
-- *2024.07*: &nbsp; 作为实习生入职蚂蚁研究院.
-- *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars 被 **SIGRRAPH Asia 2023** 接受!
-- *2023.07*: &nbsp;🎉 LoLep 被 **ICCV 2023** 接受!
-- *2022.07*: &nbsp; 作为日常实习生入职腾讯AI Lab.
-- *2022.02*: &nbsp;🎉 MotionHint 被 **ICRA 2022** 接受!
+- *2025.03*：&nbsp;🎉 **MeGA** 被 **CVPR 2025** 接受!
+- *2024.07*: &nbsp; 作为实习生入职**蚂蚁研究院**.
+- *2023.08*: &nbsp;🎉 **Neural Point-based Volumetric Avatars** 被 **SIGRRAPH Asia 2023** 接受!
+- *2023.07*: &nbsp;🎉 **LoLep** 被 **ICCV 2023** 接受!
+- *2022.07*: &nbsp; 作为日常实习生入职**腾讯AI Lab**.
+- *2022.02*: &nbsp;🎉 **MotionHint** 被 **ICRA 2022** 接受!
 
 
 <span class='anchor' id='publications'></span>
 
 # 📝 发表论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026)
@@ -99,6 +96,7 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 荣誉奖励
+- *2024.11* **华为奖学金** (20,000元)
 - *2024.07* **2023腾讯犀牛鸟精英人才计划 "优秀奖"** 
 - *2023.10* 清华大学综合奖学金 (5,000元)
 - *2023.09* 龙湖奖学金 (5,000元)
