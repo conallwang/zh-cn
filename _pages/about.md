@@ -19,7 +19,7 @@ redirect_from:
 
 我目前是腾讯混元部门的技术研究员，主要探索在数字人域下的视频生成技术。在此之前，我曾在腾讯 AI Lab 实习过两年，当时主要在探索 3D 数字人体/人头的重建/编辑相关技术，与[「康頔博士」](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)和[「暴林超博士」](https://linchaobao.github.io/)共事。我之前也在蚂蚁研究院的交互智能实验室实习过一年，与[「王璇博士」](https://xuanwangvc.github.io/)一同探索如何以低成本实现高质量 3D 数字人体/人头重建。
 
-关于教育经历，我在[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)获得了我的博士学位，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授和[王瑀屏](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)副教授。实验室的名称是 CSCG，由胡事民(https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)院士创立。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
+关于教育经历，我在[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)获得了我的博士学位，导师是[「张松海」](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授和[「王瑀屏」](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)副教授。实验室的名称是 CSCG，由[「胡事民」](https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)院士创立。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
 
 目前我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">视频生成，数字人和计算机视觉</span>，包括 2D/3D 数字人应用，图像/视频生成模型，以及SFT/RLHF等后训练技术。
 
