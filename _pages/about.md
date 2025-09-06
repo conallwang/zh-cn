@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)的一名博士生，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。博士在读期间，曾在腾讯的AI Lab实习过两年的时间，主要从事3D数字人重建/编辑相关的研究工作，指导老师是[康𬱖博士](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)。现在蚂蚁集团的蚂蚁研究院实习，研究工作仍然聚焦于3D数字人重建/编辑/生成，指导导师是[王璇博士](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en&oi=sra)。
+我目前是腾讯混元部门的技术研究员，主要探索在数字人域下的视频生成技术。在此之前，我曾在腾讯 AI Lab 实习过两年，当时主要在探索 3D 数字人体/人头的重建/编辑相关技术，与[「康頔博士」](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)和[「暴林超博士」](https://linchaobao.github.io/)共事。我之前也在蚂蚁研究院的交互智能实验室实习过一年，与[「王璇博士」](https://xuanwangvc.github.io/)一同探索如何以低成本实现高质量 3D 数字人体/人头重建。
 
-目前我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">3D数字人</span>和<span style="color:red; font-weight: bold;">计算机视觉</span>领域，包括3D数字人体/人头的创建和编辑，图像/视频的生成模型，以及新的3D表示方式。
+关于教育经历，我在[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)获得了我的博士学位，导师是[张松海](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)副教授和[王瑀屏](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)副教授。实验室的名称是 CSCG，由胡事民(https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)院士创立。在这之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了我的学士学位。
 
-另外，我正在攻读博士学位第五年（总共五年），<span style="color:red; font-weight: bold;">将在2025年6月份毕业。</span>如果您正在寻找数字人算法工程师，欢迎联系我（wangcong20@mails.tsinghua.edu.cn）。
+目前我的研究兴趣主要聚焦在<span style="color:red; font-weight: bold;">视频生成，数字人和计算机视觉</span>，包括 2D/3D 数字人应用，图像/视频生成模型，以及SFT/RLHF等后训练技术。
 
 <span class='anchor' id='news'></span>
 
 # 🔥 新闻
+- *2025.07*: &nbsp; 作为技术研究员入职**腾讯混元**.
+- *2025.07*：&nbsp;🎉 2 篇论文被 **ICCV 2025** 接受!
 - *2025.03*：&nbsp;🎉 **MeGA** 被 **CVPR 2025** 接受!
 - *2024.07*: &nbsp; 作为实习生入职**蚂蚁研究院**.
 - *2023.08*: &nbsp;🎉 **Neural Point-based Volumetric Avatars** 被 **SIGRRAPH Asia 2023** 接受!
@@ -37,6 +39,18 @@ redirect_from:
 <span class='anchor' id='publications'></span>
 
 # 📝 发表论文
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://arxiv.org/pdf/2508.09597)
+
+He-Yi Sun, **Cong Wang**, Tian-Xing Xu, Jingwei Huang, Di Kang, Chunchao Guo, Song-Hai Zhang
+
+[**Project**](https://heyy-sun.github.io/SVG-Head/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- 通过提出 surf-GS 来将全局表面建模为一张显式纹理图，以及提出 vol-GS 来高保真地渲染非朗博特性表面，SVG-Head 不仅支持高质量的人头渲染，而且支持实时地、细粒度地纹理编辑功能。
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +128,7 @@ redirect_from:
 <span class='anchor' id='educations'></span>
 
 # 📖 教育背景
-- *2020.09 - now*, 博士生, 清华大学计算机科学与技术系, 北京.
+- *2020.09 - 2025.06*, 博士生, 清华大学计算机科学与技术系, 北京.
 - *2016.09 - 2020.06*, 本科生, 北京科技大学计算机科学与技术系, 北京.
 
 <span class='anchor' id='talks'></span>
@@ -128,5 +142,7 @@ redirect_from:
 <span class='anchor' id='internships'></span>
 
 # 💻 实习经历
+- *2025.07 - 至今*, 腾讯混元, 北京.
+- *2025.05 - 2025.07*, 淘天集团, 杭州.
+- *2024.07 - 2025.05*, 蚂蚁研究院, 杭州.
 - *2022.07 - 2024.07*, 腾讯 AI Lab, 北京.
-- *2022.07 - now*, 蚂蚁研究院, 杭州.

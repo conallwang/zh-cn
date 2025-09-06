@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王聪"
-description              : "目前在蚂蚁研究院实习，主要从事数字人相关的研究"
+description              : "目前在腾讯混元从事技术研究，专注于 2D/3D 数字人相关的研究"
 repository               : "conallwang/conallwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "王聪"
   avatar           : "images/live-photo.png"
-  bio              : "清华大学"
+  bio              : "腾讯混元"
   location         : "北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
