@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是腾讯混元世界模型团队的技术研究员，主要研究方向为视频世界模型。在此之前，我在腾讯混元应用模型中心工作，主要研究身份一致的视频生成模型。
+我目前是腾讯混元世界模型团队的算法研究员，主要研究方向为视频世界模型。在此之前，我在腾讯混元应用模型中心工作，主要研究身份一致的视频生成模型。
 
 我于[清华大学计算机科学与技术系](https://www.cs.tsinghua.edu.cn/)获得博士学位，导师为[张松海教授](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm)和[王瑀屏教授](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)。我所在的实验室是由[胡事民教授](https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)创建的 CSCG 实验室。在攻读博士学位期间，我有三段精彩的实习经历：我在腾讯 AI Lab 实习了两年，与[康頔博士](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)和[暴林超博士](https://linchaobao.github.io/)共同研究 3D 数字人表示与动画；我在蚂蚁研究院交互智能实验室实习了一年，与[王璇博士](https://xuanwangvc.github.io/)共同探索 3D 数字人生成与动画；我还作为阿里星实习生在淘天集团实习，研究数字人表情动画。在攻读博士学位之前，我在[北京科技大学计算机与通信工程学院](https://scce.ustb.edu.cn/)获得了学士学位。
 
@@ -27,7 +27,7 @@ redirect_from:
 - *2026.07*: &nbsp;🎉 **Goku** 被 **ECCV 2026** 接收！
 - *2026.06*: &nbsp;🎉 **HarmoView** 在 arXiv 上发布！
 - *2026.05*: &nbsp;🎉 **SpongeBob** 在 arXiv 上发布！
-- *2025.07*: &nbsp; 我作为技术研究员加入**腾讯混元**。
+- *2025.07*: &nbsp; 我作为算法研究员加入**腾讯混元**。
 - *2025.07*: &nbsp;🎉 两篇论文被 **ICCV 2025** 接收！
 - *2025.03*: &nbsp;🎉 **MeGA** 被 **CVPR 2025** 接收！
 - *2024.07*: &nbsp; 我作为实习生加入**蚂蚁集团**。
