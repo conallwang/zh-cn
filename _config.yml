@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "王聪"
-description              : "目前在腾讯混元从事技术研究，专注于 2D/3D 数字人相关的研究"
+description              : "目前在腾讯混元从事技术研究，专注于视频世界模型。"
 repository               : "conallwang/conallwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,22 +15,22 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      :  G-EXXZH774TD
 
 # SEO Related
-google_site_verification : # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "王聪"
-  avatar           : "images/live-photo.png"
-  bio              : "腾讯混元"
-  location         : "北京"
-  employer         : #"Hefei General Machinery Research Institute"
+  avatar           : "images/live-photo.jpg"
+  bio              : "技术研究员<br>世界模型团队<br>腾讯混元"
+  location         : "中国，北京"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0gSn6sgAAAAJ"
-  email            : "wangcong20@mails.tsinghua.edu.cn"
-  researchgate     :
-  uri              : 
+  email            : "conallwang@tencent.com"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "cong-wang-561491246"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0009-2584-5222"
   pinterest        :

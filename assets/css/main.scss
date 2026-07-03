@@ -57,7 +57,8 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-radius: 6px;
             object-fit: cover;
         }
     }
@@ -65,6 +66,9 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        p {
+            margin-bottom: 0.5em;
+        }
     }
     
     @include breakpoint($medium) {
@@ -106,4 +110,6 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }

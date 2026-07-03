@@ -16,7 +16,7 @@ main:
     url: "/zh-cn/#educations"
 
   - title: "邀请报告"
-    url: "/zh-cn/#talks"
+    url: "/zh-cn/#invited-talks"
 
-  - title: "实习经历"
-    url: "/zh-cn/#internships"
+  - title: "工作经历"
+    url: "/zh-cn/#work"
