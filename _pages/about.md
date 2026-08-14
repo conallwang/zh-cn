@@ -24,7 +24,7 @@ redirect_from:
 我目前的研究兴趣集中在<span style="color:red; font-weight: bold;">视频世界模型、多模态生成和数字人 AI</span>。
 
 # 🔥 新闻
-- *2026.07*: &nbsp;🎉 **Goku** 被 **ECCV 2026** 接收！
+- *2026.07*: &nbsp;🎉 **Goku** 被接收为 **ECCV 2026 Spotlight**！
 - *2026.06*: &nbsp;🎉 **HarmoView** 在 arXiv 上发布！
 - *2026.05*: &nbsp;🎉 **SpongeBob** 在 arXiv 上发布！
 - *2025.07*: &nbsp; 我作为算法研究员加入**腾讯混元**。
@@ -36,12 +36,12 @@ redirect_from:
 
 # 📝 发表论文 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/goku_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Spotlight)</div><img src='images/goku_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599)
 
-Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen
+Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen (* 共同一作)
 
 [**Project**](http://flying-sky999.github.io/Goku.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - 我们介绍了 **Goku**，这是一个包含 200 万高质量视频编辑对的大规模数据集，将任务边界扩展到了多任务和结构性操作，同时还提出了 **Goku-Edit**（基于 MLLM 的双分支模型）和 **Goku-Bench** 以进行全面评估。
